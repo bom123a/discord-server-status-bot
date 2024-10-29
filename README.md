@@ -1,4 +1,4 @@
- Discord Status Bot
+# Discord Status Bot
 
 This bot updates the names of voice channels in Discord to display current member statistics (total members, bots, and users with a specific role).
 
@@ -10,9 +10,4 @@ This bot updates the names of voice channels in Discord to display current membe
 ## Requirements
 - Python 3.x
 - discord.py library
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/discord-status-bot.git
+- 
