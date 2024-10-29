@@ -13,14 +13,7 @@ This bot updates the names of voice channels in Discord to display current membe
 
 Configuration
 Create a file named config.json in the root directory of the project and add the following structure:
-{
-    "token": "YOUR_BOT_TOKEN",
-    "guild_id": YOUR_GUILD_ID,
-    "total_members_channel_id": CHANNEL_ID_FOR_TOTAL_MEMBERS,
-    "bot_count_channel_id": CHANNEL_ID_FOR_BOT_COUNT,
-    "staff_count_channel_id": CHANNEL_ID_FOR_STAFF_COUNT,
-    "staff_role_id": ROLE_ID_FOR_STAFF
-}
+
 Replace YOUR_BOT_TOKEN with the actual bot token from the Discord Developer Portal.
 Replace YOUR_GUILD_ID with the ID of your server (guild).
 Replace the other placeholders with the appropriate voice channel and role IDs for your server.
