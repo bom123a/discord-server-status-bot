@@ -1,2 +1,18 @@
-# discord-server-status-bot
-# Discord Status Bot  This bot updates voice channel names to display current member statistics (total members, bots, and users with a specific role).  ## Features: - Updates channels every 5 minutes - Displays member and bot counts - Counts users with a specific role
+ Discord Status Bot
+
+This bot updates the names of voice channels in Discord to display current member statistics (total members, bots, and users with a specific role).
+
+## Features
+- Updates voice channel names every 5 minutes
+- Displays total member and bot counts
+- Counts users with a specific role (e.g., "Staff")
+
+## Requirements
+- Python 3.x
+- discord.py library
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/discord-status-bot.git
