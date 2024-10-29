@@ -11,7 +11,7 @@ This bot updates the names of voice channels in Discord to display current membe
 - Python 3.x
 - discord.py library
 
-Configuration
+## Configuration
 Create a file named config.json in the root directory of the project and add the following structure:
 
 Replace YOUR_BOT_TOKEN with the actual bot token from the Discord Developer Portal.
