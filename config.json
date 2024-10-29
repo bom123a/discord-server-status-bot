@@ -1,0 +1,9 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "guild_id": 0000000000000000000000,
+    "total_members_channel_id": 000000000000000000000,
+    "bot_count_channel_id": 000000000000000000000,
+    "staff_count_channel_id": 000000000000000000,
+    "staff_role_id": 0000000000000000
+}
+
